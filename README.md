@@ -1,1 +1,1 @@
-restful webservice build on spring and gradle
+restful webservice build on springboot and gradle
