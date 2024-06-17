@@ -32,7 +32,7 @@ public class TestOnline {
 		
 		
 		
-		System.out.println(list.stream().map(s->Integer.parseInt(s)).collect(Collectors.groupingBy(n->sum(n))));
+		//System.out.println(list.stream().map(s->Integer.parseInt(s)).collect(Collectors.groupingBy(n->sum(n))));
 		
 //		list.stream().collect(Collectors.groupingBy(null))
 		
