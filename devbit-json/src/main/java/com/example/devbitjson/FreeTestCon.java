@@ -21,7 +21,7 @@ public class FreeTestCon {
 
 	@GetMapping("freerest/{pn}")
 	public List<Photo> listRest(@PathVariable("pn") int pn) {
-		
+		System.out.println("Request received pn " + pn);
 		if(pn==0) {
 			return List.of();//empty list
 		}
