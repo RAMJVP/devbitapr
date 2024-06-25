@@ -32,6 +32,11 @@ public class FreeTestCon {
 		
 		List<String> urls= Arrays.asList(
 				
+				
+				"https://drive.google.com/file/d/1FdJdUpaRxZZzew-Aq6esVyzx3t65Py3D/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1KXZCuwGEplnBh8hozgOBXINTFPhyU9Ff/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1M30BdBcOOTKPSV92MGLnyGvQDEyjM2gI/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1uo6-LCNO85U6L6EtzsWXlAQDbDmN0Jeo/view?usp=drivesdk",
 				"https://drive.google.com/file/d/1WZ0-gNy2zmey-NQE6z3eeOCve2s-RwFI/view?usp=drive_link",
 				"https://drive.google.com/file/d/1KODPELkvCHmVyyjL_uJArUQEVGsqGdU0/view?usp=drive_link",
 				
