@@ -32,7 +32,11 @@ public class FreeTestCon {
 		
 		List<String> urls= Arrays.asList(
 				
-				
+				"https://drive.google.com/file/d/12bRR_9qYZGlzn2BNBNY8Ax8TSgVrtYeg/view?usp=drivesdk",
+				"https://drive.google.com/file/d/13bLJKcoK3axsHApdGdiShJ-jqtFZ7c2-/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1709x57fEeAgh22iE1lz6hUxeMNqB67U7/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1DCeIjgt8LJBx55ISOqPSBsGxlQ9A6OUb/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1x9Nndeu4euecxysRfu7J92kT2HUIxpRC/view?usp=drivesdk",
 				"https://drive.google.com/file/d/1D7CJ7CCG3_hWuPrie3yZmtG3qLxYfqo6/view?usp=drivesdk",					
 				"https://drive.google.com/file/d/1gqRf8pTPDifFADd2ZKAlo_a7d1rycnGN/view?usp=drivesdk",					
 				"https://drive.google.com/file/d/1rCrI72NErcoWPpBFSzs8fCLq_dzlgcGO/view?usp=drivesdk",					
@@ -76,26 +80,12 @@ public class FreeTestCon {
 				"https://drive.google.com/file/d/1N8ImFuV28N2brcHYTXly0i2zyeRZBmi-/view?usp=drivesdk",
 				
 				"https://drive.google.com/file/d/1Kt-Un53274hKCvb7U_xeN_GOc6PGdQc6/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1oQ-xoLdejTJglVobvD927DpRH3VN55Pu/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1oQ-xoLdejTJglVobvD927DpRH3VN55Pu/view?usp=drivesdk"
 				
 				
 				
 				
-				"https://drive.google.com/file/d/1Kt-Un53274hKCvb7U_xeN_GOc6PGdQc6/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1OafQumSW9S1OJBH7j6tsDoG9ChnNPBmj/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1YzW-v6ABytt5MvdCtVVqYKxA9hfGwzr1/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1oQ-xoLdejTJglVobvD927DpRH3VN55Pu/view?usp=drivesdk",
 				
-				"https://drive.google.com/file/d/1DDxPats4lK4poaiK495RILjzOxr4u7Ew/view?usp=drivesdk",
-				
-				"https://drive.google.com/file/d/17nXxjx6-ixUfvbLtWHky4BaJLeF9DzA4/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1aQwG-eCYM6MMQ46pvtTANF99GFULvT_x/view?usp=drivesdk",
-				
-				
-				"https://drive.google.com/file/d/1Qa8RF1bRh1FqfWq0zcvcn6Y5u4vQks4y/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1N8ImFuV28N2brcHYTXly0i2zyeRZBmi-/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1BUWa1rcb1_79fCf_AK22ZUO8z0eY599u/view?usp=drivesdk",
-				"https://drive.google.com/file/d/14Ww3kpsy_3cRBq76YNxvWqkphWimZDe-/view?usp=drivesdk"
 				
 				
 				
