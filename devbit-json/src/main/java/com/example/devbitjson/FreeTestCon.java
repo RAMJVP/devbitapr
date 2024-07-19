@@ -32,6 +32,11 @@ public class FreeTestCon {
 		
 		List<String> urls= Arrays.asList(
 				
+				"https://drive.google.com/file/d/15na5gEjp-cZ4iWHffwySOVB4de4S-NbG/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1DlVcp7O-9_kjdFdnpBdqVRn1EUsSi7pC/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1AlIpG7pU1ZZUeBBqaE8eNWzlfbGXQ5LA/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1qDx3FeyUm7cCQdXFyaDLnWCTC3Q46Agl/view?usp=drivesdk",
+				
 				
 				"https://drive.google.com/file/d/1C74SQVChp9LuHtjZx9vd7IFaslKVWIEr/view?usp=drivesdk",					
 				"https://drive.google.com/file/d/1GU3mwIEepCfiqPChhIUHCINevgZzScBc/view?usp=drivesdk",					
@@ -67,19 +72,9 @@ public class FreeTestCon {
 				
 				"https://drive.google.com/file/d/1OdZdOPIs9ULSQLLC3ic3-Eb0qakV9s-1/view?usp=drivesdk",
 				"https://drive.google.com/file/d/1qJB0wbwmzLjUGPaedP8zDsq6pDh3ENtN/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1nhj4zfHVwd4FoRTlClEqT90yT5h4K23m/view?usp=drivesdk",
+				"https://drive.google.com/file/d/1nhj4zfHVwd4FoRTlClEqT90yT5h4K23m/view?usp=drivesdk"
 				
-				"https://drive.google.com/file/d/1VeioZa8zKb_2bmSFDjyiLdNBV78BQB9C/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1XClMYBT9gFMMXHUEeWsVb5o-Nb9hKpdx/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1X62roiHPvqMLgTbQ9R_t-zmrtseyZAhK/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1zyCzx-eYq4WlytYMU-9vTb0HVWNgRUTr/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1d3Bzsy2j1BNZYUy_1r9eUO7KT5iaH47P/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1NarWKqC2XCUN9NsYh8ScZ9aACZT9iSML/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1v3d5P3_s0iJTTet9Y6ULQwn13oW5XOCY/view?usp=drivesdk",
-				
-				"https://drive.google.com/file/d/149SwUqq3o_Vh7sNlbDQ0TWFA7IONvSrT/view?usp=drive_link"
-				
-				
+			
 				
 				
 				
