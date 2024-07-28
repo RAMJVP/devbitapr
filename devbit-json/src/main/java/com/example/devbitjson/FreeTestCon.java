@@ -32,6 +32,12 @@ public class FreeTestCon {
 		
 		List<String> urls= Arrays.asList(
 				
+				
+				"https://drive.google.com/file/d/1E_gkyWameXSI3jg8R3Ty9MwwG8BQ0dRj/view?usp=drivesdk",					
+				"https://drive.google.com/file/d/1MBmilS1JAqDrNvFZii9r34M3GeqDHYdu/view?usp=drivesdk",					
+				"https://drive.google.com/file/d/1_l_gfY9GfP5wcI4tjxqTupCNOp-713eh/view?usp=drivesdk",					
+				"https://drive.google.com/file/d/1mFVYSrvL5eRKwHHuFu2uKnW6t7vUqbRS/view?usp=drivesdk",					
+				"https://drive.google.com/file/d/1x11fMlDRM0fWFBF0GAZkd3x0lUy_dOs6/view?usp=drivesdk",					
 				"https://drive.google.com/file/d/15na5gEjp-cZ4iWHffwySOVB4de4S-NbG/view?usp=drivesdk",
 				"https://drive.google.com/file/d/1DlVcp7O-9_kjdFdnpBdqVRn1EUsSi7pC/view?usp=drivesdk",
 				"https://drive.google.com/file/d/1AlIpG7pU1ZZUeBBqaE8eNWzlfbGXQ5LA/view?usp=drivesdk",
@@ -65,14 +71,7 @@ public class FreeTestCon {
 				"https://drive.google.com/file/d/1PIp9zSuNPdNk6jQJ4E6e8jwFtNjqUwnd/view?usp=drivesdk",
 				"https://drive.google.com/file/d/1WR_SQSbEi994N3Ib4wvAesdwB6EBDSyO/view?usp=drivesdk",
 				"https://drive.google.com/file/d/1x3aEQaxDvCCiP26BLBH1lVYDtiSZeEjk/view?usp=drivesdk",
-				"https://drive.google.com/file/d/10OB7VxHYE-M3L_dJ67y9n9ym-QxhCLG2/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1UMp5j0t9pn7oVG9MX9a82ZGqJ3_XK7qG/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1anF1FCb20S0HqiqT1UhPCD_V4XASx_Qy/view?usp=drivesdk",
-				
-				
-				"https://drive.google.com/file/d/1OdZdOPIs9ULSQLLC3ic3-Eb0qakV9s-1/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1qJB0wbwmzLjUGPaedP8zDsq6pDh3ENtN/view?usp=drivesdk",
-				"https://drive.google.com/file/d/1nhj4zfHVwd4FoRTlClEqT90yT5h4K23m/view?usp=drivesdk"
+				"https://drive.google.com/file/d/10OB7VxHYE-M3L_dJ67y9n9ym-QxhCLG2/view?usp=drivesdk"
 				
 			
 				
